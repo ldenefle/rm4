@@ -1,0 +1,21 @@
+[submodule "RIAA"]
+	path = RIAA
+	url = https://github.com/kedud/RIAA
+[submodule "isolator"]
+	path = isolator
+	url = https://github.com/kedud/isolator
+[submodule "cue"]
+	path = cue
+	url = https://github.com/kedud/cue
+[submodule "power_supply"]
+	path = power_supply
+	url = https://github.com/kedud/power_supply
+[submodule "4_channel_mixer"]
+	path = 4_channel_mixer
+	url = https://github.com/kedud/4_channel_mixer
+[submodule "baxandall"]
+	path = baxandall
+	url = https://github.com/kedud/baxandall
+[submodule "main_board"]
+	path = main_board
+	url = https://github.com/kedud/main_board
