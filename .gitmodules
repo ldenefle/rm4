@@ -19,3 +19,6 @@
 [submodule "main_board"]
 	path = main_board
 	url = https://github.com/kedud/main_board
+[submodule "headphones_amp"]
+	path = headphones_amp
+	url = https://github.com/kedud/headphones_amp

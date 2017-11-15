@@ -1,6 +1,7 @@
 # 4-channel rotary mixer
 
 * [Mixer module](https://github.com/kedud/4_channel_mixer)
+* [Headphones amp module](https://github.com/kedud/headphones_amp)
 * [Isolator module](https://github.com/kedud/isolator)
 * [Cue module](https://github.com/kedud/cue)
 * [RIAA module](https://github.com/kedud/RIAA)
