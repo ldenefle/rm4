@@ -8,7 +8,7 @@
 * [Baxandall module](https://github.com/kedud/baxandall)
 * [PSU](https://github.com/kedud/power_supply)
 
-#License
+# License
 
 Hardware: CC-BY-NC-SA-4.0
 
